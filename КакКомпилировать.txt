@@ -1,0 +1,14 @@
+Находимся в корневой папке проекта jp1
+компиляция с.java
+javac f1/c.java
+
+компиляция a.java
+javac -classpath ".:f1" a.java
+
+запуск приложения
+java -classpath ".:f1" A
+
+
+Если использовать mvn:
+mnv install
+
