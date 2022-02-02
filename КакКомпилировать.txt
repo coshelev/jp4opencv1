@@ -10,5 +10,5 @@ java -classpath ".:f1" A
 
 
 Если использовать mvn:
-mnv install
+mvn install
 
